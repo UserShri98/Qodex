@@ -1,0 +1,44 @@
+.weatherContainer {
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    background: #f0f8ff;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin: auto;
+  }
+  
+  .weatherContainer h2 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .weatherContainer p {
+    margin: 5px 0;
+    font-size: 16px;
+  }
+  
+  .weatherContainer h1 {
+    font-size: 40px;
+    margin: 10px 0;
+  }
+  
+  .weatherContainer button {
+    margin-top: 10px;
+    padding: 8px 12px;
+    border: none;
+    background: #ff9800;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .weatherContainer button:hover {
+    background: #e68900;
+  }
+  
+  .error {
+    color: red;
+    font-weight: bold;
+  }
+  
